@@ -1,5 +1,7 @@
 # DeadlineIQ – Assignment Deadline Planner
 
+🌐 **Live Demo:** [https://abdullah6093.github.io/Assignment-Deadline-Planner-/](https://abdullah6093.github.io/Assignment-Deadline-Planner-/)
+
 > **Topic #12 | Assignment 1 | Client-Side Web Application**  
 > Course: Web Development | Due: Friday 30 October 2026
 
